@@ -1,4 +1,4 @@
-package br.com.arketdata.olimpiadas.serialization;
+package br.com.marketdata.olimpiadas.serialization;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

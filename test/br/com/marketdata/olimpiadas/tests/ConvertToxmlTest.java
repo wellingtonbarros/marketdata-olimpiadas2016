@@ -2,12 +2,12 @@ package br.com.marketdata.olimpiadas.tests;
 
 import org.junit.Test;
 
-import br.com.marketdata.olimpiadas.ConvertToxml;
+import br.com.marketdata.olimpiadas.Convert;
 
 public class ConvertToxmlTest {
 		@Test
 		public void testConvertToXml(){
-			ConvertToxml convertToxml = new ConvertToxml();
+			Convert convertToxml = new Convert();
 			System.out.println(convertToxml.toXml());
 		}
 }

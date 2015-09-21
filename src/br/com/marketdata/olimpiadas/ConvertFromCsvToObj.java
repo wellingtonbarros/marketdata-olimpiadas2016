@@ -8,10 +8,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+import br.com.marketdata.olimpiadas.beans.Atleta;
+import br.com.marketdata.olimpiadas.beans.Desafio;
+import br.com.marketdata.olimpiadas.beans.Podio;
 import br.com.marketdata.olimpiadas.enens.NomeJogos;
-import br.com.marketdata.olimpiadas.objects.Atleta;
-import br.com.marketdata.olimpiadas.objects.Desafio;
-import br.com.marketdata.olimpiadas.objects.Podio;
 
 public class ConvertFromCsvToObj {
 

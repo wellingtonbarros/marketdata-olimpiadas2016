@@ -1,4 +1,4 @@
-package br.com.marketdata.olimpiadas.objects;
+package br.com.marketdata.olimpiadas.beans;
 
 import java.util.List;
 

@@ -2,11 +2,11 @@ package br.com.marketdata.olimpiadas;
 
 import java.util.List;
 
-import br.com.arketdata.olimpiadas.serialization.Xml;
-import br.com.marketdata.olimpiadas.objects.Desafio;
-import br.com.marketdata.olimpiadas.objects.Podio;
+import br.com.marketdata.olimpiadas.beans.Desafio;
+import br.com.marketdata.olimpiadas.beans.Podio;
+import br.com.marketdata.olimpiadas.serialization.Xml;
 
-public class ConvertToxml {
+public class Convert {
 
 	private final String xmlTag = "xml";
 	private final String resultTag = "Resultado";

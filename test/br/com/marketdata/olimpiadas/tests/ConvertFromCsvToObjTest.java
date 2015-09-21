@@ -6,9 +6,9 @@ import java.util.List;
 import org.junit.Test;
 
 import br.com.marketdata.olimpiadas.ConvertFromCsvToObj;
-import br.com.marketdata.olimpiadas.objects.Atleta;
-import br.com.marketdata.olimpiadas.objects.Desafio;
-import br.com.marketdata.olimpiadas.objects.Podio;
+import br.com.marketdata.olimpiadas.beans.Atleta;
+import br.com.marketdata.olimpiadas.beans.Desafio;
+import br.com.marketdata.olimpiadas.beans.Podio;
 
 public class ConvertFromCsvToObjTest {
 

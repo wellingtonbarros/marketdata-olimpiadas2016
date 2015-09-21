@@ -1,4 +1,4 @@
-package br.com.marketdata.olimpiadas.objects;
+package br.com.marketdata.olimpiadas.beans;
 
 import br.com.marketdata.olimpiadas.annotation.TagName;
 
