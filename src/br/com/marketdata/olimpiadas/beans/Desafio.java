@@ -2,7 +2,7 @@ package br.com.marketdata.olimpiadas.beans;
 
 import java.util.List;
 
-import br.com.marketdata.olimpiadas.enens.NomeJogos;
+import br.com.marketdata.olimpiadas.enuns.NomeJogos;
 
 public class Desafio   {
 	

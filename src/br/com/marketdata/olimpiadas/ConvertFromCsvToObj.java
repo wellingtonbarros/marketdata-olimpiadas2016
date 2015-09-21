@@ -11,7 +11,7 @@ import java.util.List;
 import br.com.marketdata.olimpiadas.beans.Atleta;
 import br.com.marketdata.olimpiadas.beans.Desafio;
 import br.com.marketdata.olimpiadas.beans.Podio;
-import br.com.marketdata.olimpiadas.enens.NomeJogos;
+import br.com.marketdata.olimpiadas.enuns.NomeJogos;
 
 public class ConvertFromCsvToObj {
 

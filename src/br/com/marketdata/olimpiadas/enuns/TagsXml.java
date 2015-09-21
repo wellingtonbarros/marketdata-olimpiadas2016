@@ -1,4 +1,4 @@
-package br.com.marketdata.olimpiadas.enens;
+package br.com.marketdata.olimpiadas.enuns;
 
 public enum TagsXml {
 		

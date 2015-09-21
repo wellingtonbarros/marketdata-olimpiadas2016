@@ -5,7 +5,7 @@ import java.lang.reflect.Field;
 import java.util.Collection;
 
 import br.com.marketdata.olimpiadas.annotation.TagName;
-import br.com.marketdata.olimpiadas.enens.TagsXml;
+import br.com.marketdata.olimpiadas.enuns.TagsXml;
 
 public class Xml {
 
